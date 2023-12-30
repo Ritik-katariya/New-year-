@@ -296,7 +296,7 @@ opacity: 0;
        -webkit-background-clip: text;
                background-clip: text;
        color: transparent;
-       font-size: 10px;
+       font-size: 8px;
     }
     @-webkit-keyframes text1 {
         0%{width: 0vw;}
@@ -310,5 +310,5 @@ opacity: 0;
     }
 }
 @media(max-width:1000px){
-    #move{font-size: 14px;}
+    #move{font-size: 12px;}
 }
