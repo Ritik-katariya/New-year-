@@ -296,6 +296,7 @@ opacity: 0;
        -webkit-background-clip: text;
                background-clip: text;
        color: transparent;
+                font-size: 13px;
     }
     @-webkit-keyframes text1 {
         0%{width: 0vw;}
